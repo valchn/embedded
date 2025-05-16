@@ -1,10 +1,7 @@
-	.metadata
+.metadata
 
 # LED_BLINK PROJECT
 
-	/LED_BLINK/.settings
-	/LED_BLINK/Debug
-	/LED_BLINK/LED_BLINK.launch
-	/LED_BLINK/STM32F407VGTX_FLASH.ld
-	/LED_BLINK/STM32F407VGTX_RAM.ld
-	/LED_BLINK/test Debug.launch
+/LED_BLINK/.settings
+/LED_BLINK/Debug
+/LED_BLINK/*.launch
